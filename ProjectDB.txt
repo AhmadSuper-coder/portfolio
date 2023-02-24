@@ -1,0 +1,14 @@
+database work is going to work here 
+
+
+blog post attribute  
+
+1.author name;
+2.title
+3.post description
+4.created date
+5.comment 
+6.like option
+
+
+
